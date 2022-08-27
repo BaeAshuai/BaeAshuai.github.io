@@ -7,8 +7,8 @@ categories: [guide,anyconnect]
 anyconnect安卓客户端使用教程
 
 ### 安装：
-1 下载官网安装客户端安装包
-2 解压
+1 下载官网安装客户端安装包==》
+2 解压==》
 3 打开apk安装包安装
 
 
