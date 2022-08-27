@@ -37,9 +37,10 @@ categories: [anyconnect,guide]
 <img width="205" alt="image" src="https://user-images.githubusercontent.com/107782600/187040081-7490196a-dca4-4cc4-b1a9-8be31684accc.png">
  
 在下图红圈位置会出现cisco字样（正常启动软件请跳过下图）
-<img width="606" alt="image" src=https://user-images.githubusercontent.com/107782600/187040336-84c3c1bb-de67-42db-b830-b6e9c8b56bba.png)">
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/107782600/187040457-fea1b3d6-d17f-4003-921f-0c9231ec4c81.png">
 
-2
+
+2打开软件如图所示
 
 
 
