@@ -10,6 +10,9 @@ categories: [anyconnect,guide]
 
 ## 安装
 1.根据使用者自身系统版本下载相应客户端安装包（macos12.0版本请下载新客户端安装包，12.0之前版本请下载旧客户端安装包）
+如何看自己电脑的系统版本：点击通知栏右上角苹果logo=》“关于” 弹出弹窗中macOS字体下方有，比如图中版本为12开头，因此下载客户端为新客户端安装包
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/107782600/187040915-5638700b-18cb-4282-86c5-685e6616ae74.png">
+
 2.打开安装包安装
 
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/107782600/187039762-50533b4b-3986-4e54-a080-ca5a5a099e14.png">
