@@ -79,5 +79,8 @@ categories: [anyconnect,guide]
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/107782600/187041518-b94636e4-c967-432e-a641-260a154fb68c.png">
 
 10出现绿色图标表示连接成功，即可正常使用网络了
+
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/107782600/187041630-c3941b83-3337-45e1-b045-697a60786b75.png">
 
+11 如果想断开链接请点击通知栏的图标，“disconnect”，如果想退出请点击“quit”
+## 第一次使用相对比较繁琐，连接成功后软件会记住用户的选择，之后连接会简单只需打开软件点击connect输入密码就好
