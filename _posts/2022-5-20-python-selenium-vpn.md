@@ -26,7 +26,7 @@ anyconnect安卓客户端使用教程
 ## 4返回软件起始页点击’连接‘两个字
 
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/107782600/187013903-0af3f8ba-cab4-41ce-80f5-187063fb66de.png">
-## 5在服务器地址一栏添加服务器地址，说明一栏可以随便写，其他不写
+## 5在服务器地址一栏添加服务器地址，说明一栏可以随便写，其他不写（此处服务器地址是演示地址，真实地址会以邮件方式发送给购买过的用户）
 
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/107782600/187014046-822df431-2ca6-4233-8f53-87e9cd0abae0.png">
 ## 6点击完成，返回初始页面，点击初始页面中的黑色小按钮进行连接
