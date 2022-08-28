@@ -38,42 +38,42 @@ windows系统anyconnect客户端安装与使用教程，小白教程.
 <img width="351" alt="image" src="https://user-images.githubusercontent.com/107782600/187057124-74dd371f-ba62-4958-b603-209291ab86b8.png">
 
 ## 小白使用教程（第一次使用需要输入服务器地址 账户 密码并设置 相对比较繁琐，之后软件会记住输入内容）
-1打开软件Cisco anyconnect secure client
+打开软件Cisco anyconnect secure client
 
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/107782600/187057187-f0ac6894-e542-486d-b9e7-893685224221.png">
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/107782600/187057253-1108b02a-11e5-4a03-ab15-fb4de796480e.png">
 
-2 打开浏览器在网站中登录你注册好的账户并进入个人主页点击 “向我的邮箱发送服务器地址” ，不久您会收到一封电子邮件 邮件中有您的账户所对应的服务器地址 复制服务器地址
+ 打开浏览器在网站中登录你注册好的账户并进入个人主页点击 “向我的邮箱发送服务器地址” ，不久您会收到一封电子邮件 邮件中有您的账户所对应的服务器地址 复制服务器地址
 
-3 回到软件，将服务器地址输入到输入框中（假如此处您收到的地址是：1.23.45.67：9898）点击connect
+回到软件，将服务器地址输入到输入框中（假如此处您收到的地址是：1.23.45.67：9898）点击connect
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/107782600/187057265-fa0dbd67-f72a-4c93-9fef-0c74fafde630.png">
 
 
-5弹出对话框，点击change settings
+弹出对话框，点击change settings
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/107782600/187057294-882ab3e6-0dfe-4acb-b9e2-f31f080cfa85.png">
 
-6将设置中的选项保持和下图相同，然后点击右上角关闭×
+将设置中的选项保持和下图相同，然后点击右上角关闭×
 
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/107782600/187057640-b2211817-bef9-428d-8a03-c570ced5640b.png">
 
 
-7 回到初试界面，点击connect
+ 回到初试界面，点击connect
 
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/107782600/187057318-b368e2f7-1735-49b7-bfd8-30aa401e7fdb.png">
-8 勾选“always trust。。。”，点击“connect anyway”
+勾选“always trust。。。”，点击“connect anyway”
 
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/107782600/187057360-5cf55573-ca13-4c55-8b66-e72f84cc1409.png">
-9输入您在网站注册好的邮箱账户名（您的邮箱）点击 ok
+输入您在网站注册好的邮箱账户名（您的邮箱）点击 ok
 
 ![image](https://user-images.githubusercontent.com/107782600/187057425-cfca6f31-44d7-4b67-8115-e10e8854ea50.png)
 
-10 输入您的账户密码点击ok
+输入您的账户密码点击ok
 
 ![image](https://user-images.githubusercontent.com/107782600/187057468-002f2c78-0667-4024-8556-7acce1143d39.png)
 
-11出现绿色图标即为连接成功，正常网络访问即可
+出现绿色图标即为连接成功，正常网络访问即可
 
 ![image](https://user-images.githubusercontent.com/107782600/187057515-9305563b-00bf-4dd9-9d45-8ab92d487320.png)
 
