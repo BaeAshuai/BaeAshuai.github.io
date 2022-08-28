@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  MacOS系统anyconnect客户端安装与使用教程
+title:  anyconnect客户端安装与使用教程
 categories: [anyconnect,guide]
 
 
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+anyconenct个版本安装与使用教程.
+[windows系统使用教程](https://share.nite07.com/api/v3/file/source/18077/win%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf?sign=9RzCWsM0wliPqXLsgZy4XqrbyFld61jAsaVFUdHXzzg%3D%3A0)
 
