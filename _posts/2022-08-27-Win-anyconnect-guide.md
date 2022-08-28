@@ -8,7 +8,7 @@ categories: [anyconnect,guide]
 
 windows系统anyconnect客户端安装与使用教程，小白教程.
 
-##安装
+## 安装
 1下载好安装包后解压安装包，打开解压后的安装程序
 
 <img width="84" alt="image" src="https://user-images.githubusercontent.com/107782600/187056991-b55079bf-8826-46f8-8ee6-f2412d0eed6e.png">
@@ -46,17 +46,19 @@ windows系统anyconnect客户端安装与使用教程，小白教程.
 
 2 打开浏览器在网站中登录你注册好的账户并进入个人主页点击 “向我的邮箱发送服务器地址” ，不久您会收到一封电子邮件 邮件中有您的账户所对应的服务器地址 复制服务器地址
 
-3 回到软件，将服务器地址输入到输入框中（假如此处您收到的地址是：1.23.45.67：9898）
+3 回到软件，将服务器地址输入到输入框中（假如此处您收到的地址是：1.23.45.67：9898）点击connect
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/107782600/187057265-fa0dbd67-f72a-4c93-9fef-0c74fafde630.png">
 
-4点击connect
+
 5弹出对话框，点击change settings
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/107782600/187057294-882ab3e6-0dfe-4acb-b9e2-f31f080cfa85.png">
 
 6将设置中的选项保持和下图相同，然后点击右上角关闭×
 
-<img width="454" alt="image" src="https://user-images.githubusercontent.com/107782600/187057327-1bc3d0cb-649c-47f3-8d97-7b02cfcbedb7.png">
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/107782600/187057640-b2211817-bef9-428d-8a03-c570ced5640b.png">
+
+
 7 回到初试界面，点击connect
 
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/107782600/187057318-b368e2f7-1735-49b7-bfd8-30aa401e7fdb.png">
