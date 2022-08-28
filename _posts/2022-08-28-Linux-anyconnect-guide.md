@@ -1,10 +1,22 @@
 ---
 layout: post
-title:  MacOS系统anyconnect客户端安装与使用教程
+title:  Linux系统anyconnect客户端安装与使用教程
 categories: [anyconnect,guide]
 
 
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+Linux系统anyconnect安装与使用指南.
+
+## 安装
+下载anyconnect软件linux安装包
+打开终端
+输入命令
+
+```
+cd anyconnect-linux64-4.10.05085/vpn
+sudo env LANGUAGE=en ./vpn_install.sh
+
+```
+## 使用 linux系统使用流程与win macos 相同，请参考macos使用教程
 
