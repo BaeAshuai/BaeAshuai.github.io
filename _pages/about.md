@@ -1,6 +1,6 @@
 ---
 layout: page
-title: baeotter的 加速器（vpn）小店
+title: baeotter的 加速器（梯子）小店
 permalink: /about/
 ---
 
