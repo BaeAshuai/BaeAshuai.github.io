@@ -4,7 +4,7 @@ title: baeotter的 加速器（vpn）小店
 permalink: /about/
 ---
 
-[使用教程和安装指导](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. 
+[使用教程和安装指导](https://baeashuai.github.io/anyconnect-guide/). 
 
 各平台不同版本客户端下载地址：[点这里查看并下载客户端版本](https://baeashuai.github.io/download/)
 
