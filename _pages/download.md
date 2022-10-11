@@ -1,7 +1,7 @@
 ---
 layout: page
 title: download
-permalink: /getting-started/
+permalink: /download/
 ---
 
 ### Windows客户端下载
