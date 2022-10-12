@@ -12,7 +12,7 @@ anyconenct个版本安装与使用教程.
 ## macOS
 [macos系统anyconnect安装与使用教程](https://share.nite07.com/api/v3/file/source/25234/2macOS-anyconnect-guide.pdf?sign=6Z_6_NRM5i0Bndrn1cKt4OuXfjQnDpqfmS8oGLcqrrM%3D%3A0)
 ## Android
-[安卓系统anyconnect安装与使用教程](https://share.nite07.com/api/v3/file/source/18074/%E5%AE%89%E5%8D%93%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf?sign=OWcUseFkMqcVIFcL0TJaOKMX9QtM6mH3-KpbhbSc2RM%3D%3A0)
+[安卓系统anyconnect安装与使用教程](https://share.nite07.com/api/v3/file/source/25237/and-anyconnect.pdf?sign=dSNSlOpnqANn4n15yngyvr8PFN6IH3t3x-nNfSItb9g%3D%3A0)
 ## IOS
 [iOS系统anyconnect安装与使用教程](https://share.nite07.com/api/v3/file/source/25233/2IOS-anyconnect-guide.pdf?sign=VWiFNpY8FDKztmpdPw9UY6c2YhdDj6jDRDXtGv43sxs%3D%3A0)
 ## Linux
