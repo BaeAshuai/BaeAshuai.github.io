@@ -4,7 +4,7 @@ title: baeotter的 加速器（梯子）小店
 permalink: /about/
 ---
 
-[使用教程和安装指导](https://baeashuai.github.io/anyconnect-guide2/). 
+[点击查看使用教程和安装指导](https://baeashuai.github.io/anyconnect-guide2/). 
 
 各平台不同版本客户端下载地址：[点这里查看并下载客户端版本](https://baeashuai.github.io/download/)
 
