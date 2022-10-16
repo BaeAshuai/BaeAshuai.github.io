@@ -23,6 +23,3 @@ permalink: /about/
 - 扫描下方二维码添加客服vx，备注思科账户购买 
 - 软件正常使用需要“账户”“密码”“服务器地址” ，购买后客服会发给您
 
-<img width="187" alt="image" src="https://user-images.githubusercontent.com/107782600/195128746-d2d60f66-479d-455e-9c49-9f00d92bbc24.png">
-
-
