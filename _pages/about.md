@@ -21,5 +21,7 @@ permalink: /about/
 
 - 用户可加电报群 https://t.me/Ciscoanyconnectshuai 反馈使用情况和售后 
 - 扫描下方二维码添加客服vx，备注思科账户购买 
+- <img width="171" alt="image" src="https://user-images.githubusercontent.com/107782600/196023153-13643132-1c4b-4a0a-858f-a00dc6c6aa4f.png">
+
 - 软件正常使用需要“账户”“密码”“服务器地址” ，购买后客服会发给您
 
