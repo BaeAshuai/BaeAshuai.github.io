@@ -22,4 +22,5 @@ permalink: /about/
 - 用户可加电报群 https://t.me/Ciscoanyconnectshuai 反馈使用情况和售后 
 
 - 软件正常使用需要“账户”“密码”“服务器地址” ，购买后客服会发给您
+- 点击下方邮件图标可联系客服询问购买事宜
 
