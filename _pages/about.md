@@ -12,7 +12,7 @@ permalink: /about/
 
 ## 梯子特点
 - 支持全平台
-- 30元/120天,全网最低
+- 30元/90天,全网最低
 - 网页秒开，支持1080p直播画质，视频播放支持2k画质
 - 同一用户账户同时可支持4个设备连接使用
 - 质量稳定不断开
@@ -22,5 +22,8 @@ permalink: /about/
 - 用户可加电报群 https://t.me/Ciscoanyconnectshuai 反馈使用情况和售后 
 
 - 软件正常使用需要“账户”“密码”“服务器地址” ，购买后客服会发给您
+- vx客服购买方式：
+- <img width="170" alt="image" src="https://user-images.githubusercontent.com/107782600/198934745-8bad0c36-f5ee-4c85-88d2-7cd21f5bfb14.png">
+
 - 点击下方邮件图标可联系客服询问购买事宜
 
