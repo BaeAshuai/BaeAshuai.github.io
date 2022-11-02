@@ -16,4 +16,4 @@ anyconenct个版本安装与使用教程.
 ## IOS
 [iOS系统anyconnect安装与使用教程](https://share.nite07.com/api/v3/file/source/25233/2IOS-anyconnect-guide.pdf?sign=VWiFNpY8FDKztmpdPw9UY6c2YhdDj6jDRDXtGv43sxs%3D%3A0)
 ## Linux
-[linux系统anyconnect安装与使用教程](https://baeashuai.github.io/Linux-anyconnect-guide/)
+[linux系统anyconnect安装与使用教程](https://baeashuai.github.io/Linux-anyconnect-guide/) 。
