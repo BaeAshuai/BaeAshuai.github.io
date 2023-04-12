@@ -23,7 +23,8 @@ permalink: /about/
 
 - 软件正常使用需要“账户”“密码”“服务器地址” ，购买后客服会发给您
 - vx客服购买方式(备注思科账户购买)vx扫码
-- <img width="170" alt="image" src="https://user-images.githubusercontent.com/107782600/198934745-8bad0c36-f5ee-4c85-88d2-7cd21f5bfb14.png">
+- <img width="176" alt="image" src="https://user-images.githubusercontent.com/107782600/231472952-d54c169b-f830-47b5-8e29-5670100ea589.png">
+
 
 - 点击下方邮件图标可联系客服询问购买事宜
 
